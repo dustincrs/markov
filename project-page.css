@@ -58,3 +58,15 @@
                 margin-right: auto;
 
             }
+
+            #utility {
+                border-color: var(--utility-color);
+            }
+
+            #data {
+                border-color: var(--data-color);
+            }
+
+            #fun {
+                border-color: var(--fun-color);
+            }
